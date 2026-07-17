@@ -1,6 +1,6 @@
 # SQL Data Warehouse Project
 
-A modern Data Warehouse implementation built using SQL that demonstrates the complete data engineering workflow—from raw data ingestion to business-ready analytical models.
+A modern Data Warehouse implementation built using SQL that demonstrates the complete data engineering workflow-from raw data ingestion to business-ready analytical models.
 
 ## 📌 Project Overview
 
@@ -110,7 +110,7 @@ The Gold layer follows a **Star Schema** consisting of:
 - Products
 - Date
 - Category
-- Geography *(if applicable)*
+- Geography
 
 ---
 
