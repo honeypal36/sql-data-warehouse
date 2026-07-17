@@ -182,7 +182,7 @@ Through this project, I learned:
 **Honey Pal**
 
 - GitHub: https://github.com/honeypal36
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/honey-pal-520983335
 
 ---
 
